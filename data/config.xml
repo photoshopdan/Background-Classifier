@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<variables>
+    <min_pixel_value>230</min_pixel_value>
+    <white_bg_threshold>0.1</white_bg_threshold>
+</variables>
